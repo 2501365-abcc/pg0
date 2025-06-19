@@ -1,0 +1,97 @@
+
+#global-nav{
+    background-color: aquamarine;
+    width: 100%;
+    padding: 0px;
+}
+#global-nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 20px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+#global-nav a{
+    background-color: aquamarine;
+    color: red;
+    text-decoration: none;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#global-nav a:hover{
+    background-color: black;
+    color: #ea7ad0;
+}
+.p1{
+    font-size: 100px;
+}
+style{
+    width: 50%;
+}
+img {
+    width: 500px;
+}
+.body1{
+    background-color: url(image/huri-sozai.jpg);
+    width: 100%;
+    padding: 30px;
+    margin-top: 30px;
+    margin-left:auto ; margin-right: auto;
+    text-align: center;
+    border: 1px solid #cccccc;
+}
+#そば{
+    height: auto;
+    width: 50%;
+}
+.body2{ display: flex; justify-content: center; align-items: center; height: 100vh; }
+
+.container{
+     width: 80%;
+    padding: 30px;
+    margin-top: 30px;
+    margin-left:auto ; margin-right: auto;
+    text-align: center;
+}
+.html1 {
+  width: 100%;
+  height: 200%;
+  background-image: url("image/キムチ.JPG");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.p3{
+    color: #1f1be7;
+    font-size:60px;
+}
+.p4{
+    color: aquamarine;
+    font-size: 30px;
+}
+#img1{
+    width: 100px;
+}
+.style table {
+      border-collapse: collapse;
+      width: 100%;
+}
+.style th, td {
+      border: 1px solid #ddd;
+      text-align: center;
+      padding: 10px;
+}
+.style img {
+      width: 50px;
+      height: auto;
+      margin-right: 10px;
+}
+.style content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
